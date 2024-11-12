@@ -1,5 +1,0 @@
-{
-  "tasks": {
-    "build": "gh pr checkout 1"
-  }
-}
